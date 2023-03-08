@@ -1,0 +1,193 @@
+/* title */
+body{
+    font-family: "Montserrat";
+}
+#title{
+    /* background-color: rgb(238, 201, 152); */
+    background-color: #EEEEEE;
+    color: #222831;
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h4{
+    font-family: "Montserrat", sans-serif;
+}
+.container-fluid{
+    padding: 5% 5%;   
+}
+
+/* navigation bar */
+.navbar{
+    padding: 0 0 3rem;
+}
+.navbar-brand{
+    color: #393E46;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;    
+}
+.nav-link{
+    padding-left: 30%;
+    color: #3e3939;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 15px;
+}
+
+/* buttons */
+.order-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.title-image{
+    width: 96%;
+    padding-left: 5rem;
+}
+
+/* About stitchora embroidery */
+/* .about{
+    background-color: #EEEEEE;
+}
+.img{
+    width: 30%;
+    float: left;
+    margin: 10px 30px 30px 0;
+}
+h2{
+    padding-top: 3px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+.text{
+    text-align: left;
+    line-height: 1;
+    margin: 30px auto 30px;
+    font-family: "Montserrat", sans-serif;
+}
+h4{
+    font-weight: bold;
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+}  */
+
+/* features */
+#features{
+    font-family: "Montserrat", sans-serif;
+    padding: 5% 13%;
+
+}
+.feature-box{
+    text-align: center;
+}
+.text{
+    font-weight: bold;
+}
+.text1{
+    padding: 5%;
+    color: #606469;
+}
+.icon{
+    color: #393E46;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #8a8b8b;
+}
+
+/* testimonial section */
+#testimonials{
+    background-color: #EEEEEE;
+}
+.text2{
+    margin: 50px;
+}
+h2{
+    color: #393E46;
+    padding-top: 3px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+}
+.img{
+    width: 40%;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3%;
+}
+.tests{
+    text-align: center;
+    font-size: 1.5rem;
+}
+#press{
+    background-color: #EEEEEE;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 20%;
+    margin: 20px 20px 50px;
+}
+.testimonial-image{
+    width: 50%;
+    border-radius: 100%;
+    padding: 2rem;
+    position: relative;
+}
+.text3{
+    color: #393E46;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.idk{
+    font-family: "Montserrat", sans-serif;
+    margin: auto 100px 50px 100px;
+    padding-bottom: 3%;
+}
+
+/* pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+/* call to action */
+#cta{
+    text-align: center;
+}
+.cta-text{
+    padding: 3%;
+}
+.btn{
+    position: relative;
+}
+
+/* footer */
+#footer{
+    padding-top: 3% ;
+    text-align: center;
+}
+.pricing-image{
+    padding: 2rem;
+    width: 100%;
+}
+.pricing-text{
+    font-size: 1.75rem;
+}
